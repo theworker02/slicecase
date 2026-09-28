@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/slicecase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Slice host/case network string helpers for config audits.",
+  "bin": {
+    "slicecase": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/slicecase.git"
+  },
+  "homepage": "https://theworker02.github.io/slicecase/",
+  "keywords": [
+    "slice",
+    "case",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
